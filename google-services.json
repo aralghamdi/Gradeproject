@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "294251010381",
+    "firebase_url": "https://find-transportation.firebaseio.com",
+    "project_id": "find-transportation",
+    "storage_bucket": "find-transportation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294251010381:android:ea19976b299fab07f13f04",
+        "android_client_info": {
+          "package_name": "com.example.gradeprojectv10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294251010381-hucfavg9c8v0b195n1draql27r56h002.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gradeprojectv10",
+            "certificate_hash": "9927eb425435c86a3424d6e994c200f9697e3a7d"
+          }
+        },
+        {
+          "client_id": "294251010381-vbhmoaokvudoqrcq43ovvjr8f7g6kd6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI5dZ0bqLymmGFEEzBYO0NcSIDYnY8xt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294251010381-vbhmoaokvudoqrcq43ovvjr8f7g6kd6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
